@@ -1,0 +1,2 @@
+# linking_writing_processes_to_writing_quality
+first kaggle competition
